@@ -3,3 +3,5 @@ command lines
 added new change
 one more
 dont do this local
+dont do this conflict
+
