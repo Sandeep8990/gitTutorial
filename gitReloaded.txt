@@ -1,3 +1,6 @@
 New at Dec8
 
 From branch <from local>
+
+From branch for conflict
+
