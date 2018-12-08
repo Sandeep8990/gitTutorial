@@ -1,6 +1,7 @@
 New at Dec8
-
-From branch <from local>
-
-From branch for conflict
+ABCD
+From branch <from local>F
+G
+From branch for conflictH
+I
 
