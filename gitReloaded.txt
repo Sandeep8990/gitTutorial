@@ -1,7 +1,7 @@
 New at Dec8
-12
-From branch <from local>4
-5
-From branch for conflict 6
-7
+12 ABCD
+From branch <from local>4F
+5G
+From branch for conflict 6H
+7I
 
