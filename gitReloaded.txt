@@ -5,3 +5,4 @@ From branch <from local>4F
 From branch for conflict 6H
 7I
 
+pull and rebase
