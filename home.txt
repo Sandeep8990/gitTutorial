@@ -6,3 +6,4 @@ dont do this local
 dont do this conflict
 for stash
 
+ebase and pull
