@@ -12,3 +12,9 @@ test rebase
 squash1
 squash2
 squash3
+
+recap squash
+
+agains squash
+
+new og 
