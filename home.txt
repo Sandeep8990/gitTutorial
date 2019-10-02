@@ -8,3 +8,7 @@ for stash
 
 ebase and pull
 test rebase
+
+squash1
+squash2
+squash3
